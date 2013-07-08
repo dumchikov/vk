@@ -1,0 +1,9 @@
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\VkService.Mongo.dll
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\VkService.Mongo.pdb
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\MongoDB.Bson.dll
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\MongoDB.Driver.dll
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\MongoDB.Bson.xml
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\bin\Debug\MongoDB.Driver.xml
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\obj\Debug\VkService.Mongo.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\obj\Debug\VkService.Mongo.dll
+c:\users\max\documents\visual studio 2012\Projects\VkService\VkService.Mongo\obj\Debug\VkService.Mongo.pdb
